@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgb(142, 45, 57);
+  background: black;
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -1288,6 +1288,23 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
+}
+#linkedin:hover{
+  color: #0e76a8;
+}
+#github:hover{
+  color: #6e5494;
+}
+#twitter:hover{
+  color: #1DA1F2;
+}
+#mail:hover{
+  color: #f2d21d;
+}
+#instagram:hover{
+  color: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+color: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
 }
 
 /*# sourceMappingURL=style.css.map */
